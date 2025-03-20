@@ -28,13 +28,6 @@ Aspiring **Full Stack Developer** transitioning from an **engineering background
 
 ---
 
-## **📌 What I'm Working On**  
-🔹 **Expanding my knowledge in TypeScript and GraphQL**  
-🔹 **Exploring CI/CD pipelines and DevOps practices**  
-🔹 **Building and optimizing full-stack applications**  
-
----
-
 ## **📬 Connect With Me**  
 📌 GitHub: [github.com/tickkie788](https://github.com/tickkie788)  
-📌 LinkedIn: [Kandanai Kaewcharus](www.linkedin.com/in/kandanai-kaewcharus)
+📌 LinkedIn: [Kandanai Kaewcharus](https://www.linkedin.com/in/kandanai-kaewcharus/)
