@@ -34,4 +34,4 @@ Aspiring **Full Stack Developer** transitioning from an **engineering background
 
 ---  
 
-![](https://komarev.com/ghpvc/?username=tickkie788&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=tickkie788&color=brightgreen&base=100)
