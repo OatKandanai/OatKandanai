@@ -30,4 +30,8 @@ Aspiring **Full Stack Developer** transitioning from an **engineering background
 
 ## **📬 Connect With Me**  
 📌 GitHub: [github.com/tickkie788](https://github.com/tickkie788)  
-📌 LinkedIn: [Kandanai Kaewcharus](https://www.linkedin.com/in/kandanai-kaewcharus/)
+📌 LinkedIn: [Kandanai Kaewcharus](https://www.linkedin.com/in/kandanai-kaewcharus/)  
+
+---  
+
+![](https://komarev.com/ghpvc/?username=tickkie788&color=brightgreen)
