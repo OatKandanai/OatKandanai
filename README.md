@@ -1,6 +1,6 @@
 # **Hi, I'm Kandanai Kaewcharus 👋**  
 
-Aspiring **Full Stack Developer** transitioning from an **engineering background**. Passionate about building scalable and efficient web applications. I have hands-on experience in both **front-end and back-end development**, working with modern web technologies and frameworks.  
+My name is Kandanai Kaewcharus. I graduated with a Bachelor's degree in Electrical-Mechanical Manufacturing Engineering from Kasetsart University, Bangkhen. I’m now transitioning into the tech field, with a strong interest in becoming a Junior Front-End Developer or Junior Full Stack Developer.  
 
 ---
 
