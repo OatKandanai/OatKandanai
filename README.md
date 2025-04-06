@@ -26,12 +26,6 @@ My name is Kandanai Kaewcharus. I graduated with a Bachelor's degree in Electric
 - **API Testing:** Postman  
 - **Package Managers:** npm  
 
----
-
-## **📬 Connect With Me**  
-📌 GitHub: [github.com/tickkie788](https://github.com/tickkie788)  
-📌 LinkedIn: [Kandanai Kaewcharus](https://www.linkedin.com/in/kandanai-kaewcharus/)  
-
 ---  
 
 ![](https://komarev.com/ghpvc/?username=tickkie788&color=brightgreen&base=20)
