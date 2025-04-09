@@ -28,4 +28,4 @@ My name is Kandanai Kaewcharus. I graduated with a Bachelor's degree in Electric
 
 ---  
 
-![](https://komarev.com/ghpvc/?username=tickkie788&color=brightgreen&base=20)
+![](https://komarev.com/ghpvc/?username=tickkie788&color=brightgreen&base=10)
