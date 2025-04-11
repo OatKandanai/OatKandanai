@@ -18,8 +18,8 @@ My name is Kandanai Kaewcharus. I graduated with a Bachelor's degree in Electric
 - **Authentication:** JWT  
 
 ### **🗄️ Database & Storage**  
-- **SQL:** PostgreSQL  
-- **NoSQL:** MongoDB  
+- **SQL:** PostgreSQL (Basic)      
+- **NoSQL:** MongoDB  (Basic)  
 
 ### **📦 Tools & Libraries**  
 - **Version Control:** Git, GitHub  
