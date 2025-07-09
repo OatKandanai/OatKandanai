@@ -5,7 +5,7 @@
 ## **🚀 Tech Stack & Skills**  
 
 ### **🖥️ Front-End**  
-- **Languages:** HTML, CSS, JavaScript (ES6+), Dart  
+- **Languages:** HTML, CSS, JavaScript, Dart  
 - **Frameworks & Libraries:** React.js, Flutter  
 - **State Management:** Redux, GetX  
 - **Styling:** Bootstrap (Basic)  
