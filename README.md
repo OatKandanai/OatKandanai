@@ -2,25 +2,25 @@
 
 ---
 
-## **🚀 Tech Stack & Skills**  
+## **Tech Stack & Skills**  
 
-### **🖥️ Front-End**  
+### **Front-End**  
 - **Languages:** HTML, CSS, JavaScript, Dart  
 - **Frameworks & Libraries:** React.js, Flutter  
 - **State Management:** Redux, GetX  
 - **Styling:** Bootstrap (Basic)  
 
-### **🛠️ Back-End**  
+### **Back-End**  
 - **Languages:** JavaScript (Node.js)  
 - **Frameworks & Tools:** Express.js, REST API  
 - **Authentication:** JWT, Firebase Auth  
 
-### **🗄️ Database & Storage**  
+### **Database & Storage**  
 - **SQL:** PostgreSQL (Basic)      
 - **NoSQL:** MongoDB  (Basic)
 - **Firebase FireStore**  
 
-### **📦 Tools & Libraries**  
+### **Tools & Libraries**  
 - **Version Control:** Git, GitHub  
 - **API Testing:** Postman  
 - **Package Managers:** npm  
