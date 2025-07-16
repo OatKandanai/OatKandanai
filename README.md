@@ -15,7 +15,7 @@
 - **Frameworks & Tools:** Express.js, REST API  
 - **Authentication:** JWT, Firebase Auth  
 
-### **Database & Storage**  
+### **Database**  
 - **SQL:** PostgreSQL (Basic)      
 - **NoSQL:** MongoDB  (Basic)
 - **Firebase FireStore**  
