@@ -11,7 +11,7 @@
 - **Styling:** Bootstrap (Basic)  
 
 ### **Back-End**  
-- **Languages:** JavaScript (Node.js)  
+- **Languages:** Node.js, Firebase  
 - **Frameworks & Tools:** Express.js, REST API  
 - **Authentication:** JWT, Firebase Auth  
 
