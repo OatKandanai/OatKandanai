@@ -28,4 +28,4 @@
 
 ---  
 
-![](https://komarev.com/ghpvc/?username=tickkie788&color=brightgreen&base=10)
+![](https://komarev.com/ghpvc/?username=OatKandanai&color=brightgreen&base=0)
